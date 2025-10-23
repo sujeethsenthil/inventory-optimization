@@ -1,0 +1,4 @@
+Dataset: Walmart M5 Forecasting Accuracy
+Source: https://www.kaggle.com/competitions/m5-forecasting-accuracy/data
+Downloaded: 2025-10-22
+Files: sales_train_validation.csv (600 MB), calendar.csv (350 KB), sell_prices.csv (110 MB)
